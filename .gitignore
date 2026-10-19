@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/tmp*/
+vendor/LibreHardwareMonitor/*.pdb
+vendor/LibreHardwareMonitor/*.xml
+settings.json
+desktop-status.json
+logs/
+consumo_atual.json
+consumo_atual.json.tmp
